@@ -1,2 +1,4 @@
 # omni_ascii
-nur zum testen
+do nothing, but do it well
+
+
